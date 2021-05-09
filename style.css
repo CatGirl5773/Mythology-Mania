@@ -1,0 +1,63 @@
+body{
+text-align:center;
+color:black;
+}
+marquee{
+font-size: 18px;
+background-color:cornflowerblue;
+color:cornsilk;
+margin-top: 50px;
+}
+section{
+padding: 50px;
+}
+nav{
+position: sticky;
+}
+#welcome{
+color:black;
+background-color: honeydew;
+}
+#greek_mythology{
+background-color: rgb(255, 218, 218);
+}
+#roman_mythology{
+background-color: lightgoldenrodyellow;
+}
+#norse_mythology{
+background-color:rgb(250, 230, 250);
+}
+#egyptian_mythology{
+background-color: rgb(255,229,180);
+}
+#conclusion{
+background-color:rgb(209, 243, 255);
+}
+.line{
+background-color: black;
+width: 30px;
+}
+#greek{
+height: 100%;
+width: 100%;
+}
+#roman{
+height: 100%;
+width: 100%;
+}
+#norse{
+height: 100%;
+width: 100%;
+}
+#egyptian{
+height: 100%;
+width: 100%;
+}
+nav{
+position:fixed;
+width: 100%;
+z-index: 1;
+}
+p{
+font-size:18px;
+}
